@@ -5,7 +5,7 @@ To build this project you need:
 1) [Python 3](https://www.python.org/downloads/)
 2) Libraries:
     * [discord.py](https://pypi.org/project/discord.py/)
-    * [youtube_dl](https://www.google.com/search?q=readme+md&oq=readme+md&aqs=chrome.0.0j0i20i263l2j0l7.2009j0j7&sourceid=chrome&ie=UTF-8)
+    * [youtube_dl](https://pypi.org/project/youtube_dl/)
     * [PyNaCl](https://pypi.org/project/PyNaCl/)
 3) [FFmpeg](https://www.ffmpeg.org/)
 4) Discord bot token:
