@@ -17,13 +17,19 @@ If you are Windows user:
 2) Put FFmpeg directory near [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py) and execute [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py).
 
 If you are GNU/Linux user:
->```git clone https://github.com/LeovanGit/Discord-music-bot```
-```cd Discord-music-bot```
+```
+git clone https://github.com/LeovanGit/Discord-music-bot
+cd Discord-music-bot
+```
 Install FFmpeg:
-```git clone https://git.ffmpeg.org/ffmpeg.git```
+```
+git clone https://git.ffmpeg.org/ffmpeg.git
+```
 Then change [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py): executable = 'path to FFmpeg executable'
-![code_image](123.png)
-```python main.py```
+![code_image](https://i.ibb.co/GtTMndV/123.png)
+```
+python main.py
+```
 
 ## ⚙ Features & Commands ⚙
 Default prefix is +, but you can change it in [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py).
