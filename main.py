@@ -25,6 +25,7 @@ YDL_OPTIONS = {
     'key': 'FFmpegExtractAudio'}
 
 bot = commands.Bot(command_prefix=settings['prefix'])
+bot.remove_command("help")
 songs_queue = lq.Queue()
 loop_flag = False
 
