@@ -1,6 +1,6 @@
-# 🤘 Discord Music Bot 🤘
+# Discord Music Bot
 ## _This is music bot for Discord in Python_
-## 📋 Requirments 📋
+## Requirments
 To build this project you need:
 1) [Python 3](https://www.python.org/downloads/)
 2) Libraries:
@@ -11,7 +11,7 @@ To build this project you need:
 4) Discord bot token:
     * You can create your bot here: https://discord.com/developers/docs/intro
     * For first launch you can enter token from stdin, but would be better if you will read token from your $PATH
-## 🚀 Getting Started 🚀
+## Getting Started
 If you are Windows user:
 1) Download FFmpeg from oficial site: https://www.ffmpeg.org/
 2) Put FFmpeg directory near [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py) and execute [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py).
@@ -31,7 +31,7 @@ Then change [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master
 python main.py
 ```
 
-## ⚙ Features & Commands ⚙
+## ⚙ Features & Commands
 Default prefix is +, but you can change it in [main.py](https://github.com/LeovanGit/Discord-music-bot/blob/master/main.py).
 
 | Command | Description | Synonyms |
